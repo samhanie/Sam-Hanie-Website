@@ -1,0 +1,84 @@
+A.  Pictures
+	location
+		country/ cities
+			Thailand
+			Georgia
+			Florida
+			Germany
+			England
+			Arixona
+			Massachusetts
+			Virginia
+			Las Vegas
+			Tsiwan
+			San Antonio
+			Plains Georgia
+			Naples Florida
+			
+			
+			
+		attraction
+			Bearazona
+			Grand Canyon
+			Las Vegas
+			williams AZ
+			Six flsgs Over Georgia
+			Busch Gardens
+			Atlanta Aquarium
+			Disney world
+			Universal Studios
+			Rock City
+			Ruby Fslls
+			Lookout Mountain
+			Apmalacola Falls
+			Wiki Wachee
+			Gaspirilla
+			Ft DeSoto
+			Skyway Bridge
+			
+			
+			
+	projects
+		woodworking
+		electronics
+		aerospace
+	Doglas County Schools
+	macro
+	UV
+	infrared
+	flag oddities
+	Smith's Industries
+	Electromagnetic Sciences
+	Tandel Systems
+	animals
+	nature
+	family
+	money
+	weapons
+	US Army
+		Ft Devend
+		Ft Jackson
+		7TH RRFS
+		Werthiem
+		Hanau
+		Kelly AFB
+		Ft Story
+		Ft Rucker
+		
+		
+	
+	
+	
+B.  Documents
+		Essays
+		Movie Scripts
+		Biography Snippets
+		
+
+C.  Music
+		Reperoi
+		Originsl Songs
+		
+D.  	
+	
+	
